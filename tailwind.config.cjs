@@ -7,9 +7,10 @@ module.exports = {
 				"gray-900": "#464646",
 				"gray-400": "#A3A3A3",
 				"gray-300": "#A3A3A3",
-				"gray-200": "#F6F6F6",
+				"gray-200": "#ECECEC",
+				"gray-100": "#F6F6F6",
 				"blue-500": "#4894FF",
-				"white-100": "hsla(100, 100%, 100%, 0.3)",
+				background: "#faf8fe",
 				"yellow-500": "#FFB050",
 			},
 			boxShadow: {

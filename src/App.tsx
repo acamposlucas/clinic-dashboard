@@ -1,9 +1,10 @@
+import { Card } from "./components/Card";
 import { Layout } from "./components/Layout";
 
 function App() {
 	return (
 		<Layout>
-			<div>Hello</div>
+			<Card />
 		</Layout>
 	);
 }
