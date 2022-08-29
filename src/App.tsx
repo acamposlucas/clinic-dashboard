@@ -1,9 +1,9 @@
+import { Header } from "./components/Header";
+
 function App() {
 	return (
-		<div className="min-h-screen flex justify-center items-center">
-			<h1 className="text-2xl font-bold text-blue-600">
-				Install & Setup Vite + React + Typescript + Tailwind CSS 3
-			</h1>
+		<div className="font-body">
+			<Header />
 		</div>
 	);
 }
