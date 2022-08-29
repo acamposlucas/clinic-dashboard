@@ -1,6 +1,6 @@
 export const Header = () => {
 	return (
-		<header>
+		<header className="py-8">
 			<div className="flex gap-4 items-center">
 				<img
 					src="src/assets/perfil-1.png"

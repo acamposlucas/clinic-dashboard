@@ -1,10 +1,11 @@
 import { Header } from "./components/Header";
+import { Layout } from "./components/Layout";
 
 function App() {
 	return (
-		<div className="font-body">
+		<Layout>
 			<Header />
-		</div>
+		</Layout>
 	);
 }
 
