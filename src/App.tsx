@@ -1,10 +1,10 @@
-import { Card } from "./components/Card";
+import { Appointments } from "./components/Appointments";
 import { Layout } from "./components/Layout";
 
 function App() {
 	return (
 		<Layout>
-			<Card />
+			<Appointments />
 		</Layout>
 	);
 }
