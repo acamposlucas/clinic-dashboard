@@ -54,12 +54,12 @@ export const Card = ({ typeOfAppointment }: ICard) => {
 					<div className="flex gap-4">
 						<a
 							href="#"
-							className="font-medium text-sm p-3 flex items-center justify-center border border-transparent bg-yellow-500 text-white rounded-lg shadow-default">
+							className="font-medium text-sm p-3 flex flex-1 items-center justify-center border border-transparent bg-yellow-500 text-white rounded-lg shadow-default">
 							Ligar por vídeo
 						</a>
 						<a
 							href="#"
-							className="font-medium text-sm p-3 flex items-center justify-center border border-gray-200 rounded-lg text-gray-900">
+							className="font-medium text-sm p-3 flex flex-1 items-center justify-center border border-gray-200 rounded-lg text-gray-900">
 							Ligar por áudio
 						</a>
 					</div>
