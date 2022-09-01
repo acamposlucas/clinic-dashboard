@@ -15,6 +15,7 @@ module.exports = {
 			},
 			boxShadow: {
 				default: "0px 4px 16px rgba(72, 148, 255, 0.16)",
+				overlay: "0 0 0 500vmax rgb(0 0 0 / 0.5)",
 			},
 			fontFamily: {
 				body: ["Montserrat", "sans-serif"],
